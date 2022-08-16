@@ -14,5 +14,4 @@ func main() {
 	fmt.Println(s2.AddOne())
 	fmt.Printf("%p\n", s1)
 	fmt.Printf("%p\n", s2)
-
 }
